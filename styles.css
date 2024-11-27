@@ -10,7 +10,7 @@ body {
   }
   
   .container {
-    background-color:  #ffe8f1;
+    background-color:  #db84a5;
     border-radius: 8px;
     padding: 20px;
     width: 80%;
@@ -45,7 +45,7 @@ body {
   select,
   textarea {
     padding: 10px;
-    font-size: 16px;
+    font-size: 30px;
     border: 1px solid#e0f7fa;
     border-radius: 4px;
     width: 100%;
